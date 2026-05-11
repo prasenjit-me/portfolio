@@ -48,8 +48,6 @@ const projects = [
     mobileScreens: [`${b}ambest-mobile-admin.mp4`],
     tabletScreens: [`${b}ambest-tablet2.png`],
     category: "Website",
-
-    link: "https://am-best.com/",
     tech: ["React", "Laravel", "MySQL", "REST API"],
   },
   {
@@ -72,8 +70,6 @@ const projects = [
     mobileScreens: [`${b}edguru-mobile.png`],
     tabletScreens: [`${b}edguru-tablet.png`],
     category: "Education Platform",
-
-    link: "https://edguruindia.com/",
     tech: ["React", "Laravel", "React Native", "MySQL", "WebRTC"],
   },
 ];
